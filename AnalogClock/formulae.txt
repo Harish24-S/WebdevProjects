@@ -1,0 +1,21 @@
+For hour hand
+
+12hr -> 360 deg
+1hr -> 30 deg
+{for h hrs -> (30h + m/2) deg}
+60min -> 30 deg
+1min -> 1/2 deg
+for m mins -> m/2 deg
+
+For minute hand
+
+60min -> 360 deg
+1min -> 6 deg
+{for m mins -> 6m deg}  // seconds negligible
+
+For second hand
+
+60 sec -> 360 deg
+1sec -> 6 deg
+{for s secs -> 6s deg}
+
